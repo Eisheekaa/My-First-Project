@@ -1,0 +1,23 @@
+body{
+    padding-top: 800px;
+}
+img {
+    border-radius: 50px;
+    width: 175px;
+    margin-bottom: 50px;
+}
+#pic {
+    background-color: aqua;
+    text-align: center;
+    color: white;
+    font-family: cursive;
+    padding-bottom: 100px;
+}
+h1 {
+    width: 40px;
+    text-align: center;
+}
+#bio {
+    font-family: sans-serif;
+    text-align: center;
+}
